@@ -1,0 +1,31 @@
+id: P8A42786E
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG486
+  instance_id: http://purl.bdrc.io/resource/IE1KG486
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་ཀྱི་དེང་རབས་རྩོམ་རིག་ལོ་རྒྱུས།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - zang zu dang dai wen xue si
+  author: http://purl.bdrc.io/resource/P6439
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    89d9e192b1534ed89f4280b11fe27237:
+      title: པོད ༡་བོད་ཀྱི་དེང་རབས་རྩོམ་རིག་ལོ་རྒྱུས།
+      volume_number: 1
+      base_file: UT1KG486_I1KG488_0000.txt
+      reference: http://purl.bdrc.io/resource/VL813EBA2D8E3BBC72
+      image_group: I1KG488
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG486
+  - http://purl.bdrc.io/resource/MW1KG486
+  ocr_software: Namsel
+created_at: '2021-12-22T10:44:57.361031'
+last_modified_at: '2021-12-22T10:44:57.361037'
